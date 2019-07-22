@@ -1,0 +1,35 @@
+﻿* {
+    /*outline: 1px solid red !important;*/
+    font-family: Calibri;
+}
+.dayOutline {
+    color: beige;
+    background-color: deepskyblue;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 25px;
+    min-width: 500px;
+    max-width: 1000px;
+    font: bold 25px Calibri;
+}
+.otherBox {
+    color: beige;
+    background-color: cadetblue;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 25px;
+    min-width: 500px;
+    max-width: 1000px;
+    font: bold 25px Calibri;
+}
+.title {
+    color: darkred;
+    background-color: limegreen;
+    border-radius: 30px;
+    padding: 5px;
+    max-width: 1100px;
+    text-align: center;
+}
+body{
+   background-color: blue;
+}

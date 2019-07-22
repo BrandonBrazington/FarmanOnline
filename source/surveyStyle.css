@@ -1,0 +1,11 @@
+h1 {
+    color: darkred;
+    background-color: limegreen;
+    border-radius: 30px;
+    padding: 5px;
+    max-width: 1100px;
+    text-align: center;
+}
+body{
+   background-color: blue;
+}
